@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://codilime.com/static/354674827088fb7685eb981f2055ce71/header-backend-tools.png)
+![MasterHead](https://codilime.com/static/354674827088fb7685eb981f2055ce71/header-backend-tools.png)
 <h1 align="center">Hi 👋, I'm Nazrana Perween</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif">
